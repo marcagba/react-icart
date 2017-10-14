@@ -1,0 +1,18 @@
+{
+  "name": "react-icart",
+  "version": "0.0.1",
+  "description": "Itunes Cart ReactJS Edition",
+  "main": "index.js",
+  "author": "marcagba",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.6.0",
+    "webpack": "^3.3.0",
+    "webpack-dev-server": "^2.6.1"
+  }
+}
